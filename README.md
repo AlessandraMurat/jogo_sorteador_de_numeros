@@ -1,7 +1,7 @@
 ![image](https://github.com/user-attachments/assets/3aa2c063-58a2-4c8f-8978-48ebe745bced)
 
 
-# Sorteio de Números 🎰
+# Sorteador de Números 🎰
 Este projeto permite realizar sorteios de números de forma simples e interativa! 🎉 O usuário pode definir a quantidade de números a serem sorteados, o intervalo mínimo e máximo, e o sistema irá garantir que não se repitam.
 
 ## 🚀 Funcionalidades
